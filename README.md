@@ -4,3 +4,4 @@
 |----------------|-------------------------------|-----------------------------|------------|
 |08/10/2021|Toggle Functionality for FedEx Form          |Initialize Material UI for Card Components           |None
 |08/11/2021|Material UI and overall styling on Maker page         |Research and start issue 167, add market specific compliance docs     |None
+|08/12/2021 & 8/13/2021|Styling Bugs on Profile>Compliance page        |Research and start issue 167, add market specific compliance docs     |None
